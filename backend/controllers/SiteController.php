@@ -98,6 +98,6 @@ class SiteController extends Controller
 
     public function addslashes()
     {
-        echo 'eeeee';
+        echo 'dddddd';
     }
 }
