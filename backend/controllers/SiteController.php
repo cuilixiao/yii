@@ -96,7 +96,7 @@ class SiteController extends Controller
         return $this->goHome();
     }
 
-    public function rewe()
+    public function rewgfgge()
     {
         Yii::$app->user->logout();
 
